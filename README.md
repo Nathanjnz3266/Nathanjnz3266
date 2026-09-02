@@ -8,7 +8,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nathan-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Nathanjnz3266)
+[![GitHub](https://img.shields.io/badge/GitHub-Nathanjnz3266-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Nathanjnz3266)
 
 </div>
 
