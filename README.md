@@ -1,6 +1,6 @@
 <div align="center">
 
-# `NATHANJNZ3266`
+# `Nathan`
 
 ### `Software Developer` × `Cybersecurity Enthusiast`
 
@@ -66,6 +66,7 @@ I enjoy working with **Front-End Development, Web Technologies, Networking, and 
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=00ff9c)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge\&logo=openjdk\&logoColor=00ff9c)
+![Java Script](https://img.shields.io/badge/Java_Script-0d1117?style=for-the-badge\&logo=openjdk\&logoColor=00ff9c)
 
 ### Backend & Database
 
