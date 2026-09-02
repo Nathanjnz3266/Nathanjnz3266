@@ -41,75 +41,142 @@ I'm mainly interested in Web Development, Front-End Development, Networking, and
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> </p>
 
-🔐 Cybersecurity
-🛡️ Areas I'm Interested In
-┌─────────────────────────────────────────────┐
-│                                             │
-│   🌐 Web Application Security               │
-│   🔑 Authentication & Authorization         │
-│   🛡️ OWASP Top 10                          │
-│   🔍 Vulnerability Analysis                 │
-│   🌍 Network Security                       │
-│   🐧 Linux & System Fundamentals            │
-│   🔒 Secure Coding                          │
-│                                             │
-└─────────────────────────────────────────────┘
+## 🔐 Cybersecurity
 
-I'm interested in understanding how applications work, how they can be attacked, and how they can be built more securely.
+### 🛡️ Areas I'm Interested In
 
-🌐 Networking
+<div align="center">
 
-Currently exploring the fundamentals of:
+|      🌐 Web Security     | 🌍 Network Security |   🐧 System Security  |
+| :----------------------: | :-----------------: | :-------------------: |
+| Web Application Security |        TCP/IP       |   Linux Fundamentals  |
+|       OWASP Top 10       |    IP Addressing    |    System Security    |
+|      Authentication      |      Subnetting     |   Security Hardening  |
+|       Authorization      | Routing & Switching |  Secure Configuration |
+|       API Security       |   Packet Analysis   |     Secure Coding     |
+|  Vulnerability Analysis  |   Network Security  | Security Fundamentals |
 
-🌍 TCP/IP
-🔢 IP Addressing & Subnetting
-🔌 Network Configuration
-📡 Routing & Switching
-🔎 Packet Analysis
-🛡️ Network Security
-🚀 Featured Projects
-🏥 NU Wellness
+</div>
 
-Booking & Consultant Management System
+> 🔎 **Security mindset:**
+> I'm interested in understanding how applications work, how vulnerabilities can be discovered, and how software can be designed to be more secure.
 
-A web-based system for managing consultants, schedules, appointments, and available time slots.
+---
 
-Tech Stack
+## 🌐 Networking
 
-Next.js React TypeScript Tailwind CSS Prisma
+I'm currently building my foundation in **Computer Networking & Network Security**.
 
-🚗 Smart Carpooling System
+<div align="center">
 
-Smart Transportation Platform
+🌍 **TCP/IP**    •   
+🔢 **IP Addressing**    •   
+🧩 **Subnetting**
 
-A system designed to help students share rides and reduce transportation costs.
+🔌 **Network Configuration**    •   
+📡 **Routing & Switching**    •   
+🔎 **Packet Analysis**
 
-Tech Stack
+🛡️ **Network Security**
 
-React Node.js Database
+</div>
 
-🗺️ Safe Route Mapper
+---
 
-Safer Walking & Cycling Routes
+# 🚀 Featured Projects
 
-A concept for helping users identify safer routes for walking and cycling.
+### 🏥 NU Wellness
 
-Tech Stack
+**Booking & Consultant Management System**
 
-React JavaScript Maps API
+A web-based platform designed to manage **consultants, schedules, appointments, and available time slots**.
 
-🧪 Cybersecurity Learning
-                    CYBERSECURITY
-                          │
-          ┌───────────────┼───────────────┐
-          │               │               │
-       WEB SEC         NETWORK          SYSTEM
-          │               │               │
-      OWASP           TCP/IP            Linux
-      API SEC         Subnetting        Security
-      Auth            Analysis          Hardening
+**Tech Stack**
 
-Currently focusing on building a strong foundation in Web Security + Networking + Secure Development.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
+
+---
+
+### 🚗 Smart Carpooling System
+
+**Smart Transportation Platform**
+
+A system designed to help students **share rides, reduce transportation costs, and improve commuting efficiency**.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+
+---
+
+### 🗺️ Safe Route Mapper
+
+**Safer Walking & Cycling Routes**
+
+A concept for a web application that helps users identify **safer routes for walking and cycling**.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Maps API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square\&logo=googlemaps\&logoColor=white)
+
+---
+
+# 🧪 Cybersecurity Learning
+
+<div align="center">
+
+### 🌐 WEB SECURITY
+
+`OWASP` `API Security` `Authentication` `Authorization` `Vulnerability Analysis`
+
+⬇️
+
+### 🌍 NETWORK SECURITY
+
+`TCP/IP` `Subnetting` `Routing` `Packet Analysis`
+
+⬇️
+
+### 🐧 SYSTEM SECURITY
+
+`Linux` `System Fundamentals` `Hardening` `Secure Configuration`
+
+</div>
+
+---
+
+## 🔎 Security Mindset
+
+```text
+        ┌───────────────────────┐
+        │       APPLICATION     │
+        └───────────┬───────────┘
+                    │
+              🔍 Analyze
+                    │
+                    ▼
+        ┌───────────────────────┐
+        │    FIND VULNERABILITY  │
+        └───────────┬───────────┘
+                    │
+              🛡️ Secure
+                    │
+                    ▼
+        ┌───────────────────────┐
+        │     BETTER SOFTWARE   │
+        └───────────────────────┘
+```
+
+> **Build it → Understand it → Test it → Secure it**
+
+My goal is to develop a strong foundation in **Web Development, Cybersecurity, and Networking**, while learning how these areas connect together in real-world applications.
 
 🎯 Interests
 
