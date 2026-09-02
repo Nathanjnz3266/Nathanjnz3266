@@ -1,197 +1,151 @@
 <div align="center">
 
-# `Nathan`
+👾 Nathanjnz3266
+💻 Software Developer  •  🔐 Cybersecurity Enthusiast
 
-### `Software Developer` × `Cybersecurity Enthusiast`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=NATHANJNZ3266&fontSize=42&fontColor=ffffff&animation=fadeIn&color=gradient" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff9c&height=120&section=header" width="100%"/>
+<br>
+
+
+
+
 
 </div>
 
-```text
-┌──[Nathanjnz3266@github]─[~]
-│
-├── whoami
-│   └── Software Developer & Cybersecurity Enthusiast
-│
-├── focus
-│   ├── Web Development
-│   ├── Cybersecurity
-│   ├── Networking
-│   └── Secure Coding
-│
-├── currently_learning
-│   ├── Next.js
-│   ├── TypeScript
-│   ├── Web Security
-│   └── Network Security
-│
-└── status
-    └── [ ONLINE ] Building & Learning
-```
+👋 About Me
 
----
+Hi! I'm Nathanjnz3266, a Computer Science student who enjoys building things with code and exploring the world of cybersecurity.
 
-## `> about_me`
+I'm mainly interested in Web Development, Front-End Development, Networking, and Web Security.
 
-I'm a Computer Science student interested in building modern web applications and understanding how to make them more secure.
+💻 Build        → Modern Web Applications
+🎨 Design       → Clean & Interactive Interfaces
+🔐 Security     → Secure Coding & Web Security
+🌐 Networking   → Networks & Infrastructure
+🧠 Learning     → Always Exploring New Technologies
+⚡ Tech Stack
+🌐 Front-End Development
 
-I enjoy working with **Front-End Development, Web Technologies, Networking, and Cybersecurity**, while continuously improving my programming and problem-solving skills.
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> </p>
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  💻 Build                                    │
-│  🔐 Secure                                   │
-│  🔎 Analyze                                  │
-│  🧠 Learn                                    │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+🐍 Programming Languages
 
----
+<p> <img src="https://skillicons.dev/icons?i=python,java" /> </p>
 
-## `> development`
+⚙️ Backend & Database
 
-### Front-End
+<p> <img src="https://skillicons.dev/icons?i=nodejs,django,prisma,mysql,postgres" /> </p>
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge\&logo=html5\&logoColor=00ff9c)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge\&logo=css3\&logoColor=00ff9c)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=00ff9c)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge\&logo=typescript\&logoColor=00ff9c)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react\&logoColor=00ff9c)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge\&logo=next.js\&logoColor=00ff9c)
+🛠️ Development Tools
 
-### Programming
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> </p>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=00ff9c)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge\&logo=openjdk\&logoColor=00ff9c)
-![Java Script](https://img.shields.io/badge/Java_Script-0d1117?style=for-the-badge\&logo=openjdk\&logoColor=00ff9c)
+🔐 Cybersecurity
+🛡️ Areas I'm Interested In
+┌─────────────────────────────────────────────┐
+│                                             │
+│   🌐 Web Application Security               │
+│   🔑 Authentication & Authorization         │
+│   🛡️ OWASP Top 10                          │
+│   🔍 Vulnerability Analysis                 │
+│   🌍 Network Security                       │
+│   🐧 Linux & System Fundamentals            │
+│   🔒 Secure Coding                          │
+│                                             │
+└─────────────────────────────────────────────┘
 
-### Backend & Database
+I'm interested in understanding how applications work, how they can be attacked, and how they can be built more securely.
 
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge\&logo=django\&logoColor=00ff9c)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=node.js\&logoColor=00ff9c)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge\&logo=prisma\&logoColor=00ff9c)
+🌐 Networking
 
-### Tools
+Currently exploring the fundamentals of:
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=00ff9c)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=00ff9c)
-![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge\&logo=visual-studio-code\&logoColor=00ff9c)
+🌍 TCP/IP
+🔢 IP Addressing & Subnetting
+🔌 Network Configuration
+📡 Routing & Switching
+🔎 Packet Analysis
+🛡️ Network Security
+🚀 Featured Projects
+🏥 NU Wellness
 
----
-
-## `> cybersecurity`
-
-```text
-Cybersecurity Interests
-────────────────────────────────────────────
-
-[+] Web Application Security
-[+] Secure Coding
-[+] Authentication & Authorization
-[+] Networking
-[+] Vulnerability Analysis
-[+] OWASP Top 10
-[+] Linux
-```
-
-> My goal is to understand not only **how to build software**, but also **how to build it securely**.
-
----
-
-## `> featured_projects`
-
-### 🏥 NU Wellness
-
-**Booking & Consultant Management System**
+Booking & Consultant Management System
 
 A web-based system for managing consultants, schedules, appointments, and available time slots.
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma`
+Tech Stack
 
----
+Next.js React TypeScript Tailwind CSS Prisma
 
-### 🚗 Smart Carpooling System
+🚗 Smart Carpooling System
 
-A smart transportation platform designed to help students share rides and reduce transportation costs.
+Smart Transportation Platform
 
-`React` `Node.js` `Database`
+A system designed to help students share rides and reduce transportation costs.
 
----
+Tech Stack
 
-### 🗺️ Safe Route Mapper
+React Node.js Database
 
-A concept for a web application that helps users identify safer walking and cycling routes.
+🗺️ Safe Route Mapper
 
-`React` `JavaScript` `Maps API`
+Safer Walking & Cycling Routes
 
----
+A concept for helping users identify safer routes for walking and cycling.
 
-## `> security_lab`
+Tech Stack
 
-Currently exploring:
+React JavaScript Maps API
 
-```text
-Web Security
-    ├── OWASP Top 10
-    ├── Authentication
-    ├── Authorization
-    ├── API Security
-    └── Secure Coding
+🧪 Cybersecurity Learning
+                    CYBERSECURITY
+                          │
+          ┌───────────────┼───────────────┐
+          │               │               │
+       WEB SEC         NETWORK          SYSTEM
+          │               │               │
+      OWASP           TCP/IP            Linux
+      API SEC         Subnetting        Security
+      Auth            Analysis          Hardening
 
-Networking
-    ├── TCP/IP
-    ├── Subnetting
-    ├── Network Configuration
-    └── Packet Analysis
-```
+Currently focusing on building a strong foundation in Web Security + Networking + Secure Development.
 
----
-
-## `> github_stats`
+🎯 Interests
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nathanjnz3266&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" height="170"/>
+💻 Software Development
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanjnz3266&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff" height="170"/>
+🔐 Cybersecurity
+
+🌐 Web Application Security
+
+🎨 UI / UX
+
+🐧 Linux
+
+🌍 Networking
+
+🚀 Modern Web Technologies
 
 </div>
 
----
-
-## `> current_mission`
-
-```text
-[████████████████████░░░░] 80%
-
-Learning
-Building
-Securing
-Improving
-```
-
-> `There is always something new to learn.`
-
----
+📚 Currently Learning
 
 <div align="center">
 
-### `system status`
+Next.js   TypeScript   Web Security   Networking   Linux
 
-```text
-┌─────────────────────────────────┐
-│  USER      : Nathanjnz3266      │
-│  ROLE      : Developer          │
-│  SECURITY  : Learning           │
-│  STATUS    : ● ONLINE           │
-└─────────────────────────────────┘
-```
+</div>
 
-**Thanks for visiting my profile.**
+💡 Developer Mindset
 
-`BUILD • SECURE • LEARN • REPEAT`
+<div align="center">
+
+Build it.
+Understand it.
+Secure it.
+Improve it.
 
 </div>
