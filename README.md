@@ -4,7 +4,7 @@
 
 ### 💻 Software Developer   •   🔐 Cybersecurity Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=NATHANJNZ3266&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=0:6C63FF,50:00D9FF,100:00FF9C" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nathan&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=0:6C63FF,50:00D9FF,100:00FF9C" width="100%">
 
 <br>
 
