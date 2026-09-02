@@ -1,6 +1,6 @@
 <div align="center">
 
-👾 Nathanjnz3266
+👾 Nathan
 💻 Software Developer  •  🔐 Cybersecurity Enthusiast
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=NATHANJNZ3266&fontSize=42&fontColor=ffffff&animation=fadeIn&color=gradient" width="100%">
@@ -15,7 +15,7 @@
 
 👋 About Me
 
-Hi! I'm Nathanjnz3266, a Computer Science student who enjoys building things with code and exploring the world of cybersecurity.
+Hi! I'm Nathan, a Computer Science student who enjoys building things with code and exploring the world of cybersecurity.
 
 I'm mainly interested in Web Development, Front-End Development, Networking, and Web Security.
 
