@@ -5,13 +5,13 @@
 <div align="center">
 
 <!-- High-Resolution Animated SVG Banner (Nexus ID) -->
-<img src="./assets/nexus_card_v4.svg" width="100%" alt="Nexus Digital Identity" />
+<img src="./assets/nexus_card_v4_theme.svg" width="100%" alt="Nexus Digital Identity" />
 
 <br/><br/>
 
 <!-- Responsive Terminal Typing Stream -->
 <a href="https://github.com/Nathanjnz3266">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=15&pause=1200&color=00F0FF&center=true&vCenter=true&width=620&height=40&lines=%24+sys.init()+--role+%22Front-End+Developer+%7C+CyberSec%22;%24+net.trace()+--protocol+%22TCP%2FIP+%2B+Packet+Analysis%22;%24+docker+compose+up+-d+%22Full-Stack+Web+App%22;%24+security.audit()+--target+%22OWASP+Top+10%22" width="100%" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=15&pause=1200&color=00D4FF&center=true&vCenter=true&width=620&height=40&lines=%24+sys.init()+--role+%22Front-End+Developer+%7C+CyberSec%22;%24+net.trace()+--protocol+%22TCP%2FIP+%2B+Packet+Analysis%22;%24+docker+compose+up+-d+%22Full-Stack+Web+App%22;%24+security.audit()+--target+%22OWASP+Top+10%22" width="100%" alt="Terminal Typing" />
 </a>
 
 <br/>
@@ -31,7 +31,7 @@
 </div>
 
 <br/>
-<div align="center"><img src="./assets/separator-v3.svg" width="100%" /></div>
+<div align="center"><img src="./assets/separator-v4.svg" width="100%" /></div>
 <br/>
 
 <!-- ========================================================================================= -->
@@ -44,11 +44,11 @@
 
 <div align="center">
 <!-- Academics & Comms HUD -->
-<img src="./assets/nexus_academics.svg" width="100%" alt="Academics & Comms" />
+<img src="./assets/nexus_academics_theme.svg" width="100%" alt="Academics & Comms" />
 </div>
 
 <br/>
-<div align="center"><img src="./assets/separator-v3.svg" width="100%" /></div>
+<div align="center"><img src="./assets/separator-v4.svg" width="100%" /></div>
 <br/>
 
 <!-- ========================================================================================= -->
@@ -57,7 +57,7 @@
 
 <div align="center">
 <!-- Nexus Skills Radar & Progress Bars Dashboard -->
-<img src="./assets/nexus_skills_v4.svg" width="100%" alt="Evaluation Perspective" />
+<img src="./assets/nexus_skills_v4_theme.svg" width="100%" alt="Evaluation Perspective" />
 </div>
 
 <br/>
@@ -70,7 +70,7 @@
 - **Soft Skills:** `Communication (EN, TH)`, `Collaboration & Teamwork`, `Time Management`, `Fast Learner`
 
 <br/>
-<div align="center"><img src="./assets/separator-v3.svg" width="100%" /></div>
+<div align="center"><img src="./assets/separator-v4.svg" width="100%" /></div>
 <br/>
 
 <!-- ========================================================================================= -->
@@ -79,10 +79,10 @@
 
 <div align="center">
 <!-- Custom SVG Banner for Projects -->
-<img src="./assets/projects_banner-v3.svg" width="100%" />
+<img src="./assets/projects_banner-v3_theme.svg" width="100%" />
 <br/>
 <!-- Unified SVG Dashboard for Projects & HUD -->
-<img src="./assets/nexus_projects_v2.svg" width="100%" />
+<img src="./assets/nexus_projects_v2_theme.svg" width="100%" />
 </div>
 
 <br/>
@@ -99,7 +99,7 @@
 - Collaborated with backend developers using Git (Pull Requests, code reviews).
 
 <br/>
-<div align="center"><img src="./assets/separator-v3.svg" width="100%" /></div>
+<div align="center"><img src="./assets/separator-v4.svg" width="100%" /></div>
 <br/>
 
 <!-- ========================================================================================= -->
@@ -113,11 +113,11 @@
 
 <div align="center">
 <!-- Operational History Timeline HUD -->
-<img src="./assets/nexus_operations.svg" width="100%" alt="Operational History" />
+<img src="./assets/nexus_operations_theme.svg" width="100%" alt="Operational History" />
 </div>
 
 <br/>
-<div align="center"><img src="./assets/separator-v3.svg" width="100%" /></div>
+<div align="center"><img src="./assets/separator-v4.svg" width="100%" /></div>
 <br/>
 
 <!-- ========================================================================================= -->
@@ -131,11 +131,11 @@
 
 <p align="center">
   <a href="https://github.com/Nathanjnz3266">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nathanjnz3266&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=00FFA3&text_color=F8FAFC&bg_color=020617&rank_icon=github" height="175" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Nathanjnz3266&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=FF007A&text_color=F8FAFC&bg_color=020617&rank_icon=github" height="175" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Nathanjnz3266">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanjnz3266&layout=compact&hide_border=true&title_color=00F0FF&text_color=F8FAFC&bg_color=020617" height="175" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanjnz3266&layout=compact&hide_border=true&title_color=00D4FF&text_color=F8FAFC&bg_color=020617" height="175" alt="Top Languages" />
   </a>
 </p>
 
@@ -152,7 +152,7 @@
 </div>
 
 <br/>
-<div align="center"><img src="./assets/separator-v3.svg" width="100%" /></div>
+<div align="center"><img src="./assets/separator-v4.svg" width="100%" /></div>
 <br/>
 
 <!-- ========================================================================================= -->
@@ -160,8 +160,8 @@
 <!-- ========================================================================================= -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&pause=2000&color=00FFA3&center=true&vCenter=true&width=600&height=40&lines=BUILD+->+UNDERSTAND+->+TEST+->+SECURE+->+IMPROVE" alt="Mindset" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&pause=2000&color=FF007A&center=true&vCenter=true&width=600&height=40&lines=BUILD+->+UNDERSTAND+->+TEST+->+SECURE+->+IMPROVE" alt="Mindset" />
 <br/>
 <!-- Custom SVG Footer -->
-<img src="./assets/footer-v3.svg" width="100%"/>
+<img src="./assets/footer-v3_theme.svg" width="100%"/>
 </div>
