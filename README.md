@@ -36,7 +36,7 @@
 
 <div align="center">
 <!-- Nexus Skills Radar & Progress Bars Dashboard -->
-<img src="./assets/nexus_skills.svg" width="100%" alt="Evaluation Perspective" />
+<img src="./assets/nexus_skills_v2.svg" width="100%" alt="Evaluation Perspective" />
 </div>
 
 <br/>
@@ -54,22 +54,15 @@
 
 <br/>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr>
-<td width="70%" valign="top">
+<!-- Using float alignment to keep Markdown tables working alongside the HUD -->
+<img align="right" src="./assets/hud-v3.svg" width="220" />
+
 | Project Designation | System Description | Core Technologies |
 | :--- | :--- | :--- |
-| **`[SYS.01] NU Wellness`** | **Booking & Consultant Management Platform**<br/>Scalable booking system with automated scheduling. | ![Next.js](https://img.shields.io/badge/-Next.js-020617?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-020617?style=flat-square&logo=prisma) |
-| **`[SYS.02] Smart Carpooling`** | **Ride Sharing Platform**<br/>Eco-friendly student transportation network for route matching. | ![React](https://img.shields.io/badge/-React-020617?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-020617?style=flat-square&logo=node.js&logoColor=339933) |
-| **`[SYS.03] Route Mapper`** | **Safe Navigation Concept**<br/>Interactive mapping tool identifying safe routes for walking. | ![JavaScript](https://img.shields.io/badge/-JavaScript-020617?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Maps](https://img.shields.io/badge/-Maps_API-020617?style=flat-square&logo=googlemaps&logoColor=4285F4) |
-| **`[SEC.01] NetLabs`** | **Cybersecurity Explorations**<br/>Network packet analysis and vulnerability assessments. | ![Linux](https://img.shields.io/badge/-Linux-020617?style=flat-square&logo=linux&logoColor=FCC624) ![Security](https://img.shields.io/badge/-InfoSec-020617?style=flat-square&logo=hackthebox&logoColor=00F0FF) |
-</td>
-<td width="30%" align="center" valign="middle">
-<!-- Custom SVG HUD placed next to Projects for aesthetic -->
-<img src="./assets/hud-v3.svg" width="100%" />
-</td>
-</tr>
-</table>
+| **`[SYS.01] NU Wellness`** | **Booking & Consultant Management**<br/>Scalable automated scheduling. | ![Next.js](https://img.shields.io/badge/-Next.js-020617?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-020617?style=flat-square&logo=prisma) |
+| **`[SYS.02] Smart Carpool`** | **Ride Sharing Platform**<br/>Eco-friendly route matching. | ![React](https://img.shields.io/badge/-React-020617?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/-Node.js-020617?style=flat-square&logo=node.js&logoColor=339933) |
+| **`[SYS.03] Route Mapper`** | **Safe Navigation Concept**<br/>Interactive mapping tool. | ![JS](https://img.shields.io/badge/-JavaScript-020617?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Maps](https://img.shields.io/badge/-Maps_API-020617?style=flat-square&logo=googlemaps&logoColor=4285F4) |
+| **`[SEC.01] NetLabs`** | **Cybersecurity Explorations**<br/>Network packet analysis. | ![Linux](https://img.shields.io/badge/-Linux-020617?style=flat-square&logo=linux&logoColor=FCC624) ![Sec](https://img.shields.io/badge/-InfoSec-020617?style=flat-square&logo=hackthebox&logoColor=00F0FF) |
 
 
 <br/>
@@ -83,33 +76,23 @@
 <div align="center">
 <h2>📡 <code>SYSTEM TELEMETRY</code></h2>
 <br/>
-</div>
 
-<!-- Symmetrical Grid for Stats -->
-<table width="100%" align="center" style="border-collapse: collapse; border: none;">
-<tr>
-<td width="50%" align="center" valign="top">
 <a href="https://github.com/Nathanjnz3266">
-<img src="https://github-readme-stats.vercel.app/api?username=Nathanjnz3266&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=00FFA3&text_color=F8FAFC&bg_color=020617&rank_icon=github" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nathanjnz3266&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=00FFA3&text_color=F8FAFC&bg_color=020617&rank_icon=github" height="180" alt="GitHub Stats" />
 </a>
-</td>
-<td width="50%" align="center" valign="top">
 <a href="https://github.com/Nathanjnz3266">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanjnz3266&layout=compact&hide_border=true&title_color=00F0FF&text_color=F8FAFC&bg_color=020617" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanjnz3266&layout=compact&hide_border=true&title_color=00F0FF&text_color=F8FAFC&bg_color=020617" height="180" alt="Top Languages" />
 </a>
-</td>
-</tr>
-</table>
 
-<br/>
+<br/><br/>
 
-<div align="center">
 <!-- High-Tech Activity Snake -->
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%">
 </picture>
+
 </div>
 
 <br/>
