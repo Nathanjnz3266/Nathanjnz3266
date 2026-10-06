@@ -63,47 +63,37 @@
 <br/>
 
 ### <code>[ SYS.SKILLS ]</code> EXPANDED TECHNICAL STACK
-- **Programming:** 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms-020617?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data_Structures-020617?style=flat-square" />
-  <img src="https://img.shields.io/badge/OOP-020617?style=flat-square" />
-- **Web Development & Design:**
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
-- **Core OS & Network:**
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP/IP-020617?style=flat-square" />
-  <img src="https://img.shields.io/badge/DNS-020617?style=flat-square" />
-  <img src="https://img.shields.io/badge/HTTP/S-020617?style=flat-square" />
-  <img src="https://img.shields.io/badge/Routing_&_Switching-020617?style=flat-square" />
-- **AI-Assisted Dev:**
-  <img src="https://img.shields.io/badge/Prompt_Engineering-020617?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-020617?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-F9D6B3?style=flat-square&logo=anthropic&logoColor=black" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-22B8CD?style=flat-square&logo=perplexity&logoColor=white" />
-- **Soft Skills:**
-  <img src="https://img.shields.io/badge/Communication_(EN,_TH)-020617?style=flat-square" />
-  <img src="https://img.shields.io/badge/Collaboration_&_Teamwork-020617?style=flat-square" />
-  <img src="https://img.shields.io/badge/Time_Management-020617?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fast_Learner-020617?style=flat-square" />
+
+**`[ PROGRAMMING ]`**<br/>
+<img src="https://img.shields.io/badge/-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+**`[ WEB DEVELOPMENT & DESIGN ]`**<br/>
+<img src="https://img.shields.io/badge/-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+
+**`[ CORE OS & NETWORK ]`**<br/>
+<img src="https://img.shields.io/badge/-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+
+**`[ AI-ASSISTED DEV ]`**<br/>
+<img src="https://img.shields.io/badge/-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-%23F9D6B3.svg?style=for-the-badge&logo=anthropic&logoColor=black" />
+<img src="https://img.shields.io/badge/-%238E75B2.svg?style=for-the-badge&logo=googlebard&logoColor=white" />
+<img src="https://img.shields.io/badge/-%2322B8CD.svg?style=for-the-badge&logo=perplexity&logoColor=white" />
 
 <br/>
 <div align="center"><img src="./assets/separator-v4.svg" width="100%" /></div>
@@ -118,7 +108,7 @@
 <img src="./assets/projects_banner-v3_theme.svg" width="100%" />
 <br/>
 <!-- Unified SVG Dashboard for Projects & HUD -->
-<img src="./assets/nexus_projects_v2_theme.svg" width="100%" />
+<img src="./assets/nexus_projects_v4.svg" width="100%" />
 </div>
 
 <br/>
