@@ -159,15 +159,24 @@
 </div>
 <br/>
 
-<p align="center">
+<div align="center">
+  <!-- GitHub Streak Stats (Wide Panel) -->
   <a href="https://github.com/Nathanjnz3266">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nathanjnz3266&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=FF007A&text_color=F8FAFC&bg_color=020617&rank_icon=github" height="175" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathanjnz3266&hide_border=true&background=020617&stroke=FF007A&ring=00D4FF&fire=FF007A&currStreakNum=F8FAFC&currStreakLabel=00D4FF&sideNums=F8FAFC&sideLabels=00D4FF&dates=94A3B8" alt="GitHub Streak" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- GitHub General Stats -->
+  <a href="https://github.com/Nathanjnz3266">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nathanjnz3266&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=FF007A&text_color=F8FAFC&bg_color=020617&rank_icon=github" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
+  <!-- Top Languages -->
   <a href="https://github.com/Nathanjnz3266">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanjnz3266&layout=compact&hide_border=true&title_color=00D4FF&text_color=F8FAFC&bg_color=020617" height="175" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanjnz3266&layout=compact&hide_border=true&title_color=FF007A&text_color=F8FAFC&bg_color=020617" alt="Top Languages" />
   </a>
-</p>
+</div>
 
 <br/><br/>
 
