@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- High-Resolution Animated SVG Banner (Nexus ID) -->
-<img src="./assets/nexus_id.svg" width="100%" alt="Nexus Digital Identity" />
+<img src="./assets/nexus_card_v4.svg" width="100%" alt="Nexus Digital Identity" />
 
 <br/><br/>
 
