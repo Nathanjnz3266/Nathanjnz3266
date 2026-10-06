@@ -42,28 +42,10 @@
 <h2>🎓 <code>ACADEMICS & COMMUNICATIONS</code></h2>
 </div>
 
-<table width="100%" align="center" style="border: none;">
-<tr>
-<td width="50%" valign="top">
-<h3><code>[ SYS.EDU ]</code> Education</h3>
-
-- **Naresuan University**<br/>
-  B.Sc Computer Science (GPA: **2.69**)
-- **Internship Availability Window:**<br/>
-  **16 November 2026 — 26 February 2027**
-
-</td>
-<td width="50%" valign="top">
-<h3><code>[ SYS.COM ]</code> Contact Network</h3>
-
-- 📧 **Email:** lastonce3266@gmail.com
-- 📞 **Phone:** (+66) 96 545 8935
-- ⌨️ **Typing Speed:** EN 85-120 WPM | TH 80-100 WPM
-- 🌐 **GitHub:** github.com/Nathanjnz3266
-
-</td>
-</tr>
-</table>
+<div align="center">
+<!-- Academics & Comms HUD -->
+<img src="./assets/nexus_academics.svg" width="100%" alt="Academics & Comms" />
+</div>
 
 <br/>
 <div align="center"><img src="./assets/separator-v3.svg" width="100%" /></div>
@@ -129,25 +111,10 @@
 </div>
 <br/>
 
-> **🏆 `[ CTF.2025 ]` Hack The Scammer CTF — First CTF Entry (Dec 2025)**  
-> **Position:** OSINT Team  
-> _Solved OSINT challenges by identifying target locations, gathering information, and decoding data using OSINT Framework and CyberChef to uncover flags and complete challenge objectives._
-
-> **✈️ `[ WAT.2026 ]` Work and Travel USA — Silver Dollar City Amusement Park, Missouri (Mar - Jul 2026)**  
-> **Position:** Attraction Teams Member  
-> _As an Attractions Operator in the Fireman Landing zone, I operated rides such as Fire Spotter and Firefall while ensuring guest safety and providing clear instructions. Assisted international guests and supported daily operations in a fast-paced environment, strengthening English communication, teamwork, and problem-solving skills._
-
-> **✈️ `[ WAT.2025 ]` Work and Travel USA — Dollywood DreamMore Resort & Spa, Tennessee (Apr - Jun 2025)**  
-> **Position:** Housekeeper (Front House and Back House)  
-> _Maintained cleanliness and sanitation across guest rooms and hotel facilities, including room preparation, bed making, and waste removal. Worked efficiently in a fast-paced environment while developing strong attention to detail, time management, and English communication skills._
-
-> **🎮 `[ EVENT.2024 ]` Hosted E-Sport RoV Sci-Week — Naresuan University (Jul - Aug 2024)**  
-> **Position:** Leader of NU E-Sport Club & OBS Live Management  
-> _Hosted tournament and management for a competition in Realm of Valor (RoV) for the strongest team ever during Science Week._
-
-> **🤝 `[ EVENT.2024 ]` NU Cultural Exchange Program — Naresuan University (Jul 2024)**  
-> **Position:** Student Buddy  
-> _Take care of cultural interaction students and engage in activities to teach them about Thai culture and explore._
+<div align="center">
+<!-- Operational History Timeline HUD -->
+<img src="./assets/nexus_operations.svg" width="100%" alt="Operational History" />
+</div>
 
 <br/>
 <div align="center"><img src="./assets/separator-v3.svg" width="100%" /></div>

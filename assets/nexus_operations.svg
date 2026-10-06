@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+    <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glow-mint" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    <![CDATA[
+    @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700&family=Share+Tech+Mono&display=swap');
+    
+    .bg { fill: url(#bg-grad); }
+    .panel { fill: #020617; stroke: #334155; stroke-width: 1; opacity: 0.9; }
+    
+    .title-main { font-family: 'Chakra Petch', sans-serif; font-size: 16px; font-weight: 700; fill: #F8FAFC; }
+    .title-sub { font-family: 'Share Tech Mono', monospace; font-size: 11px; fill: #94A3B8; }
+    .label-glow { font-family: 'Share Tech Mono', monospace; font-size: 12px; fill: #00F0FF; filter: url(#glow-cyan); font-weight: bold; }
+    .role-text { font-family: 'Share Tech Mono', monospace; font-size: 12px; fill: #00FFA3; font-weight: bold; }
+    .desc-text { font-family: 'Share Tech Mono', monospace; font-size: 10px; fill: #94A3B8; }
+    
+    .timeline-line { stroke: #334155; stroke-width: 2; stroke-dasharray: 4 4; }
+    .node-outer { fill: none; stroke: #00F0FF; stroke-width: 2; }
+    .node-inner { fill: #00F0FF; filter: url(#glow-cyan); }
+    .node-mint-outer { fill: none; stroke: #00FFA3; stroke-width: 2; }
+    .node-mint-inner { fill: #00FFA3; filter: url(#glow-mint); }
+    
+    .pulse { animation: pulse-anim 2s infinite; }
+    @keyframes pulse-anim {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(1.2); }
+    }
+    ]]>
+  </style>
+
+  <rect class="bg" width="800" height="560" />
+
+  <!-- Timeline Axis -->
+  <line x1="60" y1="40" x2="60" y2="520" class="timeline-line" />
+
+  <!-- ITEM 1: CTF 2025 -->
+  <g transform="translate(0, 40)">
+    <!-- Node -->
+    <circle cx="60" cy="40" r="12" class="node-mint-outer pulse" transform-origin="60px 40px" />
+    <circle cx="60" cy="40" r="6" class="node-mint-inner" />
+    <line x1="72" y1="40" x2="90" y2="40" stroke="#00FFA3" stroke-width="2" />
+    
+    <!-- Panel -->
+    <rect x="90" y="5" width="670" height="70" class="panel" />
+    <text x="105" y="25" class="label-glow" fill="#00FFA3">[ CTF.2025 ]</text>
+    <text x="200" y="25" class="title-main">Hack The Scammer CTF — First CTF Entry</text>
+    <text x="740" y="25" class="title-sub" text-anchor="end">Dec 2025</text>
+    
+    <text x="105" y="45" class="role-text">ROLE: OSINT Team</text>
+    <text x="105" y="62" class="desc-text">Solved OSINT challenges by identifying target locations and decoding data using CyberChef.</text>
+  </g>
+
+  <!-- ITEM 2: WAT 2026 -->
+  <g transform="translate(0, 140)">
+    <circle cx="60" cy="40" r="12" class="node-outer pulse" transform-origin="60px 40px" />
+    <circle cx="60" cy="40" r="6" class="node-inner" />
+    <line x1="72" y1="40" x2="90" y2="40" stroke="#00F0FF" stroke-width="2" />
+    
+    <rect x="90" y="5" width="670" height="70" class="panel" />
+    <text x="105" y="25" class="label-glow">[ WAT.2026 ]</text>
+    <text x="200" y="25" class="title-main">Work and Travel USA — Silver Dollar City</text>
+    <text x="740" y="25" class="title-sub" text-anchor="end">Mar - Jul 2026</text>
+    
+    <text x="105" y="45" class="role-text">ROLE: Attraction Teams Member</text>
+    <text x="105" y="62" class="desc-text">Operated rides in Fireman Landing, ensured guest safety, and supported daily operations.</text>
+  </g>
+
+  <!-- ITEM 3: WAT 2025 -->
+  <g transform="translate(0, 240)">
+    <circle cx="60" cy="40" r="12" class="node-outer pulse" transform-origin="60px 40px" />
+    <circle cx="60" cy="40" r="6" class="node-inner" />
+    <line x1="72" y1="40" x2="90" y2="40" stroke="#00F0FF" stroke-width="2" />
+    
+    <rect x="90" y="5" width="670" height="70" class="panel" />
+    <text x="105" y="25" class="label-glow">[ WAT.2025 ]</text>
+    <text x="200" y="25" class="title-main">Work and Travel USA — Dollywood DreamMore</text>
+    <text x="740" y="25" class="title-sub" text-anchor="end">Apr - Jun 2025</text>
+    
+    <text x="105" y="45" class="role-text">ROLE: Housekeeper</text>
+    <text x="105" y="62" class="desc-text">Maintained cleanliness and sanitation across hotel facilities in a fast-paced environment.</text>
+  </g>
+
+  <!-- ITEM 4: RoV Sci-Week -->
+  <g transform="translate(0, 340)">
+    <circle cx="60" cy="40" r="12" class="node-outer pulse" transform-origin="60px 40px" />
+    <circle cx="60" cy="40" r="6" class="node-inner" />
+    <line x1="72" y1="40" x2="90" y2="40" stroke="#00F0FF" stroke-width="2" />
+    
+    <rect x="90" y="5" width="670" height="70" class="panel" />
+    <text x="105" y="25" class="label-glow">[ EVENT.2024]</text>
+    <text x="200" y="25" class="title-main">Hosted E-Sport RoV Sci-Week</text>
+    <text x="740" y="25" class="title-sub" text-anchor="end">Jul - Aug 2024</text>
+    
+    <text x="105" y="45" class="role-text">ROLE: Leader of NU E-Sport Club &amp; OBS Live Management</text>
+    <text x="105" y="62" class="desc-text">Hosted and managed the RoV competition for the strongest team during Science Week.</text>
+  </g>
+
+  <!-- ITEM 5: Cultural Exchange -->
+  <g transform="translate(0, 440)">
+    <circle cx="60" cy="40" r="12" class="node-outer pulse" transform-origin="60px 40px" />
+    <circle cx="60" cy="40" r="6" class="node-inner" />
+    <line x1="72" y1="40" x2="90" y2="40" stroke="#00F0FF" stroke-width="2" />
+    
+    <rect x="90" y="5" width="670" height="70" class="panel" />
+    <text x="105" y="25" class="label-glow">[ EVENT.2024]</text>
+    <text x="200" y="25" class="title-main">NU Cultural Exchange Program</text>
+    <text x="740" y="25" class="title-sub" text-anchor="end">Jul 2024</text>
+    
+    <text x="105" y="45" class="role-text">ROLE: Student Buddy</text>
+    <text x="105" y="62" class="desc-text">Took care of exchange students and engaged in activities to explore Thai culture.</text>
+  </g>
+
+</svg>
