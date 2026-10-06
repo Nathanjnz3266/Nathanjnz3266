@@ -19,10 +19,10 @@
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;display=swap');
     
-    .hud-base { fill: none; stroke: #00f2fe; stroke-width: 2; opacity: 0.3; }
+    .hud-base { fill: none; stroke: #F2CC8F; stroke-width: 2; opacity: 0.3; }
     
     .ring-1 {
-      fill: none; stroke: #4ade80; stroke-width: 4;
+      fill: none; stroke: #81B29A; stroke-width: 4;
       stroke-dasharray: 40 20;
       transform-origin: 200px 200px;
       animation: spin 12s linear infinite;
@@ -30,7 +30,7 @@
     }
     
     .ring-2 {
-      fill: none; stroke: #38bdf8; stroke-width: 2;
+      fill: none; stroke: #E07A5F; stroke-width: 2;
       stroke-dasharray: 100 50 20 50;
       transform-origin: 200px 200px;
       animation: spin-reverse 8s linear infinite;
@@ -38,14 +38,14 @@
     }
     
     .ring-3 {
-      fill: none; stroke: #a855f7; stroke-width: 6;
+      fill: none; stroke: #F2CC8F; stroke-width: 6;
       stroke-dasharray: 2 15;
       transform-origin: 200px 200px;
       animation: spin 20s linear infinite;
     }
 
     .radar-sweep {
-      fill: #00f2fe; opacity: 0.15;
+      fill: #F2CC8F; opacity: 0.15;
       transform-origin: 200px 200px;
       animation: spin 4s linear infinite;
     }
@@ -53,7 +53,7 @@
     .hud-text {
       font-family: 'Orbitron', sans-serif;
       font-size: 24px;
-      fill: #fff;
+      fill: #F4F1DE;
       text-anchor: middle;
       filter: url(#neon-cyan);
       animation: pulse 2s infinite;
@@ -62,7 +62,7 @@
     .hud-sub {
       font-family: 'Orbitron', sans-serif;
       font-size: 12px;
-      fill: #4ade80;
+      fill: #81B29A;
       text-anchor: middle;
       letter-spacing: 2px;
     }
@@ -71,7 +71,7 @@
     @keyframes spin-reverse { 100% { transform: rotate(-360deg); } }
     @keyframes pulse {
       0%, 100% { opacity: 1; }
-      50% { opacity: 0.6; }
+      50% { opacity: 0.7; }
     }
   </style>
 
@@ -88,13 +88,13 @@
   <path d="M200,200 L200,60 A140,140 0 0,1 340,200 Z" class="radar-sweep" />
 
   <!-- Inner Data -->
-  <circle cx="200" cy="200" r="45" fill="#030712" />
-  <circle cx="200" cy="200" r="45" stroke="#38bdf8" stroke-width="2" fill="none" filter="url(#neon-cyan)"/>
+  <circle cx="200" cy="200" r="45" fill="#151210" />
+  <circle cx="200" cy="200" r="45" stroke="#E07A5F" stroke-width="2" fill="none" filter="url(#neon-cyan)"/>
   
   <text x="200" y="205" class="hud-text">100%</text>
   <text x="200" y="225" class="hud-sub">SECURE</text>
 
   <!-- Outer HUD Accents -->
-  <path d="M 50 200 L 40 190 L 40 150 M 50 200 L 40 210 L 40 250" stroke="#4ade80" stroke-width="2" fill="none" filter="url(#neon-green)"/>
-  <path d="M 350 200 L 360 190 L 360 150 M 350 200 L 360 210 L 360 250" stroke="#4ade80" stroke-width="2" fill="none" filter="url(#neon-green)"/>
+  <path d="M 50 200 L 40 190 L 40 150 M 50 200 L 40 210 L 40 250" stroke="#81B29A" stroke-width="2" fill="none" filter="url(#neon-green)"/>
+  <path d="M 350 200 L 360 190 L 360 150 M 350 200 L 360 210 L 360 250" stroke="#81B29A" stroke-width="2" fill="none" filter="url(#neon-green)"/>
 </svg>

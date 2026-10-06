@@ -8,9 +8,9 @@
       </feMerge>
     </filter>
     <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#030712" />
-      <stop offset="50%" stop-color="#38bdf8" />
-      <stop offset="100%" stop-color="#030712" />
+      <stop offset="0%" stop-color="#151210" />
+      <stop offset="50%" stop-color="#E07A5F" />
+      <stop offset="100%" stop-color="#151210" />
     </linearGradient>
   </defs>
 
@@ -24,18 +24,14 @@
     }
     
     .pulse-dot {
-      fill: #00f2fe;
+      fill: #F2CC8F;
       filter: url(#glow-neon);
       animation: travel 4s cubic-bezier(0.4, 0, 0.2, 1) infinite;
     }
 
     @keyframes flicker {
-      0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
-        opacity: 0.8;
-      }
-      20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
-        opacity: 0.2;
-      }
+      0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% { opacity: 0.9; }
+      20%, 21.999%, 63%, 63.999%, 65%, 69.999% { opacity: 0.3; }
     }
 
     @keyframes travel {
