@@ -38,10 +38,10 @@
     .bg { fill: url(#bg-grad); }
     .panel { fill: #020617; stroke: #334155; stroke-width: 1; opacity: 0.9; }
     
-    .title-main { font-family: 'Chakra Petch', sans-serif; font-size: 16px; font-weight: 700; fill: #F8FAFC; }
+    .title-main { font-family: 'Chakra Petch', sans-serif; font-size: 16px; font-weight: 700; fill: url(#cyber-grad); }
     .title-sub { font-family: 'Share Tech Mono', monospace; font-size: 11px; fill: #94A3B8; }
-    .label-glow { font-family: 'Share Tech Mono', monospace; font-size: 12px; fill: #00D4FF; filter: url(#glow-cyan); font-weight: bold; }
-    .role-text { font-family: 'Share Tech Mono', monospace; font-size: 12px; fill: #FF007A; font-weight: bold; }
+    .label-glow { font-family: 'Share Tech Mono', monospace; font-size: 12px; fill: url(#cyber-grad); filter: url(#glow-cyan); font-weight: bold; }
+    .role-text { font-family: 'Share Tech Mono', monospace; font-size: 12px; fill: url(#cyber-grad); font-weight: bold; }
     .desc-text { font-family: 'Share Tech Mono', monospace; font-size: 10px; fill: #94A3B8; }
     
     .timeline-line { stroke: #334155; stroke-width: 2; stroke-dasharray: 4 4; }
@@ -72,7 +72,7 @@
     
     <!-- Panel -->
     <rect x="90" y="5" width="670" height="70" class="panel" />
-    <text x="105" y="25" class="label-glow" fill="#FF007A">[ CTF.2025 ]</text>
+    <text x="105" y="25" class="label-glow" fill="url(#cyber-grad)">[ CTF.2025 ]</text>
     <text x="200" y="25" class="title-main">Hack The Scammer CTF — First CTF Entry</text>
     <text x="740" y="25" class="title-sub" text-anchor="end">Dec 2025</text>
     

@@ -59,7 +59,7 @@
     .accent-cyan { fill: #00D4FF; filter: url(#glow-cyan); }
     .accent-mint { fill: #FF007A; filter: url(#glow-pink); }
     
-    .title-main { font-family: 'Chakra Petch', sans-serif; font-size: 32px; font-weight: 700; fill: #FFFFFF; letter-spacing: 4px; }
+    .title-main { font-family: 'Chakra Petch', sans-serif; font-size: 32px; font-weight: 700; fill: url(#cyber-grad); letter-spacing: 4px; }
     .title-sub { font-family: 'Chakra Petch', sans-serif; font-size: 18px; font-weight: 500; fill: #94A3B8; letter-spacing: 2px; }
     
     .label { font-family: 'Share Tech Mono', monospace; font-size: 10px; fill: #64748B; letter-spacing: 1px; text-transform: uppercase; }
@@ -67,7 +67,7 @@
     .value-mint { font-family: 'Share Tech Mono', monospace; font-size: 14px; fill: #FF007A; }
     .value-white { font-family: 'Share Tech Mono', monospace; font-size: 14px; fill: #F8FAFC; }
     
-    .nexus-header { font-family: 'Share Tech Mono', monospace; font-size: 12px; fill: #00D4FF; letter-spacing: 3px; }
+    .nexus-header { font-family: 'Share Tech Mono', monospace; font-size: 12px; fill: url(#cyber-grad); letter-spacing: 3px; }
 
     .scan-line {
       fill: #00D4FF;
