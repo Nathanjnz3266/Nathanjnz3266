@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="100%">
+  <defs>
+    <linearGradient id="cyber-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D4FF" />
+      <stop offset="100%" stop-color="#FF007A" />
+    </linearGradient>
+    <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glow-pink" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#334155" opacity="0.3" />
+    </pattern>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700&amp;family=Share+Tech+Mono&amp;display=swap');
+    
+    .panel-bg { fill: #020617; stroke: url(#cyber-grad); stroke-width: 1; }
+    .header-bar { fill: url(#cyber-grad); opacity: 0.15; }
+    
+    .label-glow { font-family: 'Share Tech Mono', monospace; font-size: 14px; fill: url(#cyber-grad); font-weight: bold; }
+    .title-main { font-family: 'Chakra Petch', sans-serif; font-size: 20px; font-weight: 700; fill: #FFFFFF; letter-spacing: 1px; }
+    .title-sub { font-family: 'Chakra Petch', sans-serif; font-size: 14px; font-weight: 500; fill: #FF007A; }
+    
+    .bullet-text { font-family: 'Chakra Petch', sans-serif; font-size: 13.5px; fill: #E2E8F0; }
+    .highlight { fill: #00D4FF; font-weight: bold; }
+  </style>
+
+  <!-- Background Panel -->
+  <rect x="10" y="10" width="780" height="360" class="panel-bg" rx="4" />
+  <rect x="10" y="10" width="780" height="360" fill="url(#grid)" rx="4" />
+  
+  <!-- Header Bar -->
+  <rect x="10" y="10" width="780" height="40" class="header-bar" rx="4" />
+  <line x1="10" y1="50" x2="790" y2="50" stroke="url(#cyber-grad)" stroke-width="1" filter="url(#glow-cyan)" />
+
+  <!-- Title Section -->
+  <text x="30" y="37" class="label-glow">[ PROJECT.DEEP_DIVE ]</text>
+  <text x="215" y="37" class="title-main">Wellness Center | Healthcare Web App</text>
+  
+  <text x="30" y="80" class="title-sub">ROLE: Front-End Developer &amp; Database Management</text>
+
+  <!-- Bullets Section -->
+  <g transform="translate(30, 110)">
+    
+    <!-- Bullet 1 -->
+    <polygon points="0,0 8,4 0,8" fill="#00D4FF" filter="url(#glow-cyan)" transform="translate(0, -8)" />
+    <text x="20" y="0" class="bullet-text">Developed responsive user interfaces using <tspan class="highlight">Next.js, TypeScript, and Tailwind CSS.</tspan></text>
+
+    <!-- Bullet 2 -->
+    <polygon points="0,0 8,4 0,8" fill="#FF007A" filter="url(#glow-pink)" transform="translate(0, 22)" />
+    <text x="20" y="30" class="bullet-text">Implemented reusable components and optimized UI performance for large-scale data rendering.</text>
+
+    <!-- Bullet 3 -->
+    <polygon points="0,0 8,4 0,8" fill="#00D4FF" filter="url(#glow-cyan)" transform="translate(0, 52)" />
+    <text x="20" y="60" class="bullet-text">Integrated RESTful APIs to support dynamic data visualization and user interactions.</text>
+
+    <!-- Bullet 4 -->
+    <polygon points="0,0 8,4 0,8" fill="#FF007A" filter="url(#glow-pink)" transform="translate(0, 82)" />
+    <text x="20" y="90" class="bullet-text">Built dashboard interfaces for analytics and reporting features.</text>
+
+    <!-- Bullet 5 -->
+    <polygon points="0,0 8,4 0,8" fill="#00D4FF" filter="url(#glow-cyan)" transform="translate(0, 112)" />
+    <text x="20" y="120" class="bullet-text">Improved page load performance and reduced client-side latency through frontend optimization.</text>
+
+    <!-- Bullet 6 -->
+    <polygon points="0,0 8,4 0,8" fill="#FF007A" filter="url(#glow-pink)" transform="translate(0, 142)" />
+    <text x="20" y="150" class="bullet-text">Implemented data aggregation pipelines for analytics and reporting systems.</text>
+
+    <!-- Bullet 7 -->
+    <polygon points="0,0 8,4 0,8" fill="#00D4FF" filter="url(#glow-cyan)" transform="translate(0, 172)" />
+    <text x="20" y="180" class="bullet-text">Designed scalable data models supporting complex filtering and high-volume queries.</text>
+
+    <!-- Bullet 8 -->
+    <polygon points="0,0 8,4 0,8" fill="#FF007A" filter="url(#glow-pink)" transform="translate(0, 202)" />
+    <text x="20" y="210" class="bullet-text">Collaborated with backend developers using <tspan class="highlight">Git (Pull Requests, code reviews).</tspan></text>
+
+  </g>
+  
+  <!-- Decorative Corner Brackets -->
+  <path d="M 10 30 L 10 10 L 30 10" fill="none" stroke="#00D4FF" stroke-width="3" />
+  <path d="M 790 30 L 790 10 L 770 10" fill="none" stroke="#FF007A" stroke-width="3" />
+  <path d="M 10 350 L 10 370 L 30 370" fill="none" stroke="#FF007A" stroke-width="3" />
+  <path d="M 790 350 L 790 370 L 770 370" fill="none" stroke="#00D4FF" stroke-width="3" />
+</svg>

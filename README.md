@@ -124,16 +124,9 @@
 
 <br/>
 
-### <code>[ PROJECT.DEEP_DIVE ]</code> Wellness Center | Healthcare Web App
-**Role:** Front-End Developer & Database Management
-- Developed responsive user interfaces using Next.js, TypeScript, and Tailwind CSS.
-- Implemented reusable components and optimized UI performance for large-scale data rendering.
-- Integrated RESTful APIs to support dynamic data visualization and user interactions.
-- Built dashboard interfaces for analytics and reporting features.
-- Improved page load performance and reduced client-side latency through frontend optimization.
-- Implemented data aggregation pipelines for analytics and reporting systems.
-- Designed scalable data models supporting complex filtering and high-volume queries.
-- Collaborated with backend developers using Git (Pull Requests, code reviews).
+<div align="center">
+<img src="./assets/nexus_deep_dive.svg" width="100%" />
+</div>
 
 <br/>
 <div align="center"><img src="./assets/separator-v4.svg" width="100%" /></div>
