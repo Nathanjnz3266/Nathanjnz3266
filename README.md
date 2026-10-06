@@ -119,7 +119,7 @@
 <img src="./assets/projects_banner-v3_theme.svg" width="100%" />
 <br/>
 <!-- Unified SVG Dashboard for Projects & HUD -->
-<img src="./assets/nexus_projects_v4.svg" width="100%" />
+<img src="./assets/nexus_projects_cards.svg" width="100%" />
 </div>
 
 <br/>
