@@ -4,30 +4,30 @@
 
 <div align="center">
 
-  <!-- High-Resolution Animated SVG Banner (Earth Tone) -->
-  <img src="./assets/header.svg" width="100%" alt="Nathan - Software Developer & Cybersecurity Enthusiast" />
+<!-- High-Resolution Animated SVG Banner (Earth Tone) -->
+<img src="./assets/header-v2.svg" width="100%" alt="Nathan - Software Developer & Cybersecurity Enthusiast" />
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Responsive Terminal Typing Stream -->
-  <a href="https://github.com/Nathanjnz3266">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=E07A5F&center=true&vCenter=true&width=620&height=40&lines=%24+sys.init()+--role+%22Software+Developer+%26+Security+Researcher%22;%24+net.trace()+--protocol+%22TCP%2FIP+%2B+Packet+Analysis%22;%24+docker+compose+up+-d+%22Full-Stack+Web+App%22;%24+security.audit()+--target+%22OWASP+Top+10%22" width="100%" alt="Terminal Typing" />
-  </a>
+<!-- Responsive Terminal Typing Stream -->
+<a href="https://github.com/Nathanjnz3266">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=E07A5F&center=true&vCenter=true&width=620&height=40&lines=%24+sys.init()+--role+%22Software+Developer+%26+Security+Researcher%22;%24+net.trace()+--protocol+%22TCP%2FIP+%2B+Packet+Analysis%22;%24+docker+compose+up+-d+%22Full-Stack+Web+App%22;%24+security.audit()+--target+%22OWASP+Top+10%22" width="100%" alt="Terminal Typing" />
+</a>
 
-  <br/>
+<br/>
 
-  <!-- SYSTEM STATUS BADGES (Mobile Responsive) -->
-  <p align="center">
-    <img src="https://api.visitorbadge.io/api/visitors?path=Nathanjnz3266.Nathanjnz3266&label=SYSTEM%20VIEWS&labelColor=241E1A&countColor=E07A5F&style=flat-square" alt="Telemetry Views" />
-    <img src="https://img.shields.io/badge/Identity-Nathan-241E1A?style=flat-square&logo=github&logoColor=F2CC8F" alt="GitHub Identity" />
-    <img src="https://img.shields.io/badge/Field-Computer_Science-241E1A?style=flat-square&logo=computermods&logoColor=81B29A" alt="Field" />
-    <img src="https://img.shields.io/badge/Focus-Full_Stack_%2F_CyberSec-241E1A?style=flat-square&logo=docker&logoColor=F2CC8F" alt="Core Focus" />
-  </p>
+<!-- SYSTEM STATUS BADGES (Mobile Responsive) -->
+<p align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=Nathanjnz3266.Nathanjnz3266&label=SYSTEM%20VIEWS&labelColor=241E1A&countColor=E07A5F&style=flat-square" alt="Telemetry Views" />
+<img src="https://img.shields.io/badge/Identity-Nathan-241E1A?style=flat-square&logo=github&logoColor=F2CC8F" alt="GitHub Identity" />
+<img src="https://img.shields.io/badge/Field-Computer_Science-241E1A?style=flat-square&logo=computermods&logoColor=81B29A" alt="Field" />
+<img src="https://img.shields.io/badge/Focus-Full_Stack_%2F_CyberSec-241E1A?style=flat-square&logo=docker&logoColor=F2CC8F" alt="Core Focus" />
+</p>
 
 </div>
 
 <br/>
-<div align="center"><img src="./assets/separator.svg" width="100%" /></div>
+<div align="center"><img src="./assets/separator-v2.svg" width="100%" /></div>
 <br/>
 
 <!-- ========================================================================================= -->
@@ -35,23 +35,20 @@
 <!-- ========================================================================================= -->
 
 <table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>⚡ <code>ENGINEERING PROFILE & ARSENAL</code></h2>
-      <p>I build <b>scalable backend systems</b> and <b>responsive frontends</b>, while ensuring robust <b>cybersecurity</b> defenses. My workflow revolves around continuous integration, vulnerability hunting, and clean code.</p>
-      
-      <br/>
-      
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,python,java,nodejs,mysql,postgres,prisma,linux,bash,git,github,docker,vscode&perline=7" alt="Technical Arsenal" />
-      </a>
-    </td>
-    
-    <td width="40%" align="center" valign="middle">
-      <!-- Custom SVG HUD -->
-      <img src="./assets/hud.svg" width="250" />
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="top">
+<h2>⚡ <code>ENGINEERING PROFILE & ARSENAL</code></h2>
+<p>I build <b>scalable backend systems</b> and <b>responsive frontends</b>, while ensuring robust <b>cybersecurity</b> defenses. My workflow revolves around continuous integration, vulnerability hunting, and clean code.</p>
+<br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,python,java,nodejs,mysql,postgres,prisma,linux,bash,git,github,docker,vscode&perline=7" alt="Technical Arsenal" />
+</a>
+</td>
+<td width="40%" align="center" valign="middle">
+<!-- Custom SVG HUD -->
+<img src="./assets/hud-v2.svg" width="250" />
+</td>
+</tr>
 </table>
 
 <br/>
@@ -64,7 +61,7 @@
 | **Security & Ops** | ![Linux](https://img.shields.io/badge/Linux_Hardening-241E1A?style=flat-square&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash_Scripting-241E1A?style=flat-square&logo=gnu-bash&logoColor=4EAA25) ![CyberSec](https://img.shields.io/badge/OWASP_Top_10-241E1A?style=flat-square&logo=owasp&logoColor=E3000F) |
 
 <br/>
-<div align="center"><img src="./assets/separator.svg" width="100%" /></div>
+<div align="center"><img src="./assets/separator-v2.svg" width="100%" /></div>
 <br/>
 
 <!-- ========================================================================================= -->
@@ -72,8 +69,8 @@
 <!-- ========================================================================================= -->
 
 <div align="center">
-  <!-- Custom SVG Banner for Projects -->
-  <img src="./assets/projects_banner.svg" width="100%" />
+<!-- Custom SVG Banner for Projects -->
+<img src="./assets/projects_banner-v2.svg" width="100%" />
 </div>
 
 <br/>
@@ -86,7 +83,7 @@
 | **`[SEC.01] NetLabs`** | **Cybersecurity Explorations**<br/>Network packet analysis, system hardening scripts, and vulnerability assessments. | ![Linux](https://img.shields.io/badge/-Linux-241E1A?style=flat-square&logo=linux&logoColor=FCC624) ![Security](https://img.shields.io/badge/-InfoSec-241E1A?style=flat-square&logo=hackthebox&logoColor=81B29A) |
 
 <br/>
-<div align="center"><img src="./assets/separator.svg" width="100%" /></div>
+<div align="center"><img src="./assets/separator-v2.svg" width="100%" /></div>
 <br/>
 
 <!-- ========================================================================================= -->
@@ -94,30 +91,30 @@
 <!-- ========================================================================================= -->
 
 <div align="center">
-  <h2>📡 <code>SYSTEM TELEMETRY</code></h2>
-  
-  <br/>
+<h2>📡 <code>SYSTEM TELEMETRY</code></h2>
 
-  <a href="https://github.com/Nathanjnz3266">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nathanjnz3266&show_icons=true&hide_border=true&title_color=E07A5F&icon_color=F2CC8F&text_color=F4F1DE&bg_color=151210&rank_icon=github" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Nathanjnz3266">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanjnz3266&layout=compact&hide_border=true&title_color=E07A5F&text_color=F4F1DE&bg_color=151210" height="180" alt="Top Languages" />
-  </a>
+<br/>
 
-  <br/><br/>
+<a href="https://github.com/Nathanjnz3266">
+<img src="https://github-readme-stats.vercel.app/api?username=Nathanjnz3266&show_icons=true&hide_border=true&title_color=E07A5F&icon_color=F2CC8F&text_color=F4F1DE&bg_color=151210&rank_icon=github" height="180" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Nathanjnz3266">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanjnz3266&layout=compact&hide_border=true&title_color=E07A5F&text_color=F4F1DE&bg_color=151210" height="180" alt="Top Languages" />
+</a>
 
-  <!-- High-Tech Activity Snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%">
-  </picture>
+<br/><br/>
+
+<!-- High-Tech Activity Snake -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%">
+</picture>
 
 </div>
 
 <br/>
-<div align="center"><img src="./assets/separator.svg" width="100%" /></div>
+<div align="center"><img src="./assets/separator-v2.svg" width="100%" /></div>
 <br/>
 
 <!-- ========================================================================================= -->
@@ -126,11 +123,11 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=81B29A&center=true&vCenter=true&width=600&height=40&lines=BUILD+→+UNDERSTAND+→+TEST+→+SECURE+→+IMPROVE" alt="Mindset" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=81B29A&center=true&vCenter=true&width=600&height=40&lines=BUILD+->+UNDERSTAND+->+TEST+->+SECURE+->+IMPROVE" alt="Mindset" />
 
-  <br/>
+<br/>
 
-  <!-- Custom SVG Footer -->
-  <img src="./assets/footer.svg" width="100%"/>
+<!-- Custom SVG Footer -->
+<img src="./assets/footer-v2.svg" width="100%"/>
 
 </div>
