@@ -135,45 +135,45 @@
     <!-- 1: Front-End -->
     <text x="0" y="105" class="label-glow">FE</text>
     <text x="35" y="105" class="label" fill="#F8FAFC">Front-End (React, Next.js)</text>
-    <!-- Shift bars to 180, total width 170 -->
-    <rect x="180" y="100" width="170" height="6" class="bar-bg" />
-    <rect x="180" y="100" width="153" height="6" class="bar-fill" /> <!-- 90% -->
-    <text x="360" y="106" class="score">90</text>
+    <!-- Shift bars to 220, total width 150 -->
+    <rect x="220" y="100" width="150" height="6" class="bar-bg" />
+    <rect x="220" y="100" width="135" height="6" class="bar-fill" /> <!-- 90% -->
+    <text x="380" y="106" class="score">90</text>
 
     <!-- 2: UX / UI -->
     <text x="0" y="145" class="label-glow">UX</text>
     <text x="35" y="145" class="label" fill="#F8FAFC">UI / UX Design (Tailwind)</text>
-    <rect x="180" y="140" width="170" height="6" class="bar-bg" />
-    <rect x="180" y="140" width="127" height="6" class="bar-fill" /> <!-- 75% -->
-    <text x="360" y="146" class="score">75</text>
+    <rect x="220" y="140" width="150" height="6" class="bar-bg" />
+    <rect x="220" y="140" width="112" height="6" class="bar-fill" /> <!-- 75% -->
+    <text x="380" y="146" class="score">75</text>
 
     <!-- 3: DATA -->
     <text x="0" y="185" class="label-glow">DATA</text>
     <text x="35" y="185" class="label" fill="#F8FAFC">Data &amp; APIs (Node, MySQL)</text>
-    <rect x="180" y="180" width="170" height="6" class="bar-bg" />
-    <rect x="180" y="180" width="119" height="6" class="bar-fill" /> <!-- 70% -->
-    <text x="360" y="186" class="score">70</text>
+    <rect x="220" y="180" width="150" height="6" class="bar-bg" />
+    <rect x="220" y="180" width="105" height="6" class="bar-fill" /> <!-- 70% -->
+    <text x="380" y="186" class="score">70</text>
 
     <!-- 4: Security -->
     <text x="0" y="225" class="label-glow">SEC</text>
     <text x="35" y="225" class="label" fill="#F8FAFC">Cybersecurity (OSINT)</text>
-    <rect x="180" y="220" width="170" height="6" class="bar-bg" />
-    <rect x="180" y="220" width="136" height="6" class="bar-fill-alt" /> <!-- 80% -->
-    <text x="360" y="226" class="score">80</text>
+    <rect x="220" y="220" width="150" height="6" class="bar-bg" />
+    <rect x="220" y="220" width="120" height="6" class="bar-fill-alt" /> <!-- 80% -->
+    <text x="380" y="226" class="score">80</text>
 
     <!-- 5: Systems -->
     <text x="0" y="265" class="label-glow">NET</text>
     <text x="35" y="265" class="label" fill="#F8FAFC">Systems &amp; Net (Linux, Docker)</text>
-    <rect x="180" y="260" width="170" height="6" class="bar-bg" />
-    <rect x="180" y="260" width="144" height="6" class="bar-fill" /> <!-- 85% -->
-    <text x="360" y="266" class="score">85</text>
+    <rect x="220" y="260" width="150" height="6" class="bar-bg" />
+    <rect x="220" y="260" width="127" height="6" class="bar-fill" /> <!-- 85% -->
+    <text x="380" y="266" class="score">85</text>
 
     <!-- 6: Comm -->
     <text x="0" y="305" class="label-glow">COM</text>
     <text x="35" y="305" class="label" fill="#F8FAFC">Communication &amp; Leadership</text>
-    <rect x="180" y="300" width="170" height="6" class="bar-bg" />
-    <rect x="180" y="300" width="136" height="6" class="bar-fill" /> <!-- 80% -->
-    <text x="360" y="306" class="score">80</text>
+    <rect x="220" y="300" width="150" height="6" class="bar-bg" />
+    <rect x="220" y="300" width="120" height="6" class="bar-fill" /> <!-- 80% -->
+    <text x="380" y="306" class="score">80</text>
   </g>
 
 </svg>

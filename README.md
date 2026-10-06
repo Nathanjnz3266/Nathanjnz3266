@@ -36,7 +36,7 @@
 
 <div align="center">
 <!-- Nexus Skills Radar & Progress Bars Dashboard -->
-<img src="./assets/nexus_skills_v3.svg" width="100%" alt="Evaluation Perspective" />
+<img src="./assets/nexus_skills_v4.svg" width="100%" alt="Evaluation Perspective" />
 </div>
 
 <br/>
@@ -52,7 +52,7 @@
 <img src="./assets/projects_banner-v3.svg" width="100%" />
 <br/>
 <!-- Unified SVG Dashboard for Projects & HUD -->
-<img src="./assets/nexus_projects.svg" width="100%" />
+<img src="./assets/nexus_projects_v2.svg" width="100%" />
 </div>
 
 <br/>
@@ -68,15 +68,15 @@
 </div>
 <br/>
 
-<div>
-<a href="https://github.com/Nathanjnz3266">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nathanjnz3266&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=00FFA3&text_color=F8FAFC&bg_color=020617&rank_icon=github" width="49%" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Nathanjnz3266">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanjnz3266&layout=compact&hide_border=true&title_color=00F0FF&text_color=F8FAFC&bg_color=020617" width="49%" alt="Top Languages" />
-</a>
-</div>
-<br clear="all" />
+<p align="center">
+  <a href="https://github.com/Nathanjnz3266">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nathanjnz3266&show_icons=true&hide_border=true&title_color=00F0FF&icon_color=00FFA3&text_color=F8FAFC&bg_color=020617&rank_icon=github" height="175" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Nathanjnz3266">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanjnz3266&layout=compact&hide_border=true&title_color=00F0FF&text_color=F8FAFC&bg_color=020617" height="175" alt="Top Languages" />
+  </a>
+</p>
 
 <br/><br/>
 
