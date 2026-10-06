@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 20" width="100%">
+  <defs>
+    <filter id="glow-neon" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .line {
+      stroke: url(#line-grad);
+      stroke-width: 2;
+      filter: url(#glow-neon);
+      opacity: 0.8;
+      animation: flicker 3s infinite;
+    }
+    
+    .pulse-dot {
+      fill: #00f2fe;
+      filter: url(#glow-neon);
+      animation: travel 4s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+
+    @keyframes flicker {
+      0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+        opacity: 0.8;
+      }
+      20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
+        opacity: 0.2;
+      }
+    }
+
+    @keyframes travel {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(800px); }
+      100% { transform: translateX(0); }
+    }
+  </style>
+
+  <!-- Base Line -->
+  <line x1="0" y1="10" x2="800" y2="10" class="line" />
+  
+  <!-- Traveling glowing dot -->
+  <circle cx="0" cy="10" r="3" class="pulse-dot" />
+</svg>
