@@ -68,41 +68,41 @@
 <br/>
 
 **`[ PROGRAMMING ]`**<br/>
-<img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="JavaScript" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="45" alt="TypeScript" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="45" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="Java" />
 
 <br/><br/>
 
 **`[ WEB DEVELOPMENT & DESIGN ]`**<br/>
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="HTML5" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3/1572B6" height="45" alt="CSS3" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" height="45" alt="Tailwind" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="45" alt="React" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="45" alt="Next.js" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/angular/DD0031" height="45" alt="Angular" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/figma/F24E1E" height="45" alt="Figma" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="45" alt="Photoshop" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="Canva" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="45" alt="Illustrator" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45" alt="HTML5" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS3" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" alt="React" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" style="background: white; border-radius: 50%; padding: 2px;" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="45" alt="Angular" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="45" alt="Figma" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="45" alt="Photoshop" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="45" alt="Canva" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="45" alt="Illustrator" />
 
 <br/><br/>
 
 **`[ CORE OS & NETWORK ]`**<br/>
-<img src="https://cdn.simpleicons.org/linux/FCC624" height="45" alt="Linux" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" alt="Ubuntu" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45" alt="Kali" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/fedora/51A2DA" height="45" alt="Fedora" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/windows/0078D6" height="45" alt="Windows" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45" alt="Linux" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="45" alt="Ubuntu" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="45" alt="Kali" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="45" alt="Fedora" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="45" alt="Windows" />
 
 <br/><br/>
 
 **`[ AI-ASSISTED DEV ]`**<br/>
-<img src="https://cdn.simpleicons.org/openai/74aa9c" height="45" alt="ChatGPT" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/anthropic/F9D6B3" height="45" alt="Claude" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Gemini" /> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/perplexity/22B8CD" height="45" alt="Perplexity" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="45" alt="ChatGPT" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Claude-F9D6B3?style=for-the-badge&logo=anthropic&logoColor=black" height="45" alt="Claude" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" height="45" alt="Gemini" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Perplexity-22B8CD?style=for-the-badge&logo=perplexity&logoColor=white" height="45" alt="Perplexity" />
 
 </div>
 
