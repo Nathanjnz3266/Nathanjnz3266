@@ -63,11 +63,47 @@
 <br/>
 
 ### <code>[ SYS.SKILLS ]</code> EXPANDED TECHNICAL STACK
-- **Programming:** `Python`, `JavaScript`, `TypeScript`, `Java`, `Algorithms`, `Data Structures`, `OOP`
-- **Web Development & Design:** `HTML5`, `CSS3`, `Tailwind CSS`, `React`, `Next.js`, `Angular`, `Figma`, `Photoshop`, `Canva`, `Illustrator`
-- **Core OS & Network:** `Linux (Ubuntu, Kali, Fedora)`, `Windows`, `TCP/IP`, `DNS`, `HTTP/S`, `Routing & Switching`
-- **AI-Assisted Dev:** `Prompt Engineering`, `LLMs`, `ChatGPT`, `Claude`, `Gemini`, `Perplexity`
-- **Soft Skills:** `Communication (EN, TH)`, `Collaboration & Teamwork`, `Time Management`, `Fast Learner`
+- **Programming:** 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-020617?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Structures-020617?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP-020617?style=flat-square" />
+- **Web Development & Design:**
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
+- **Core OS & Network:**
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP/IP-020617?style=flat-square" />
+  <img src="https://img.shields.io/badge/DNS-020617?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTTP/S-020617?style=flat-square" />
+  <img src="https://img.shields.io/badge/Routing_&_Switching-020617?style=flat-square" />
+- **AI-Assisted Dev:**
+  <img src="https://img.shields.io/badge/Prompt_Engineering-020617?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-020617?style=flat-square" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-F9D6B3?style=flat-square&logo=anthropic&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-22B8CD?style=flat-square&logo=perplexity&logoColor=white" />
+- **Soft Skills:**
+  <img src="https://img.shields.io/badge/Communication_(EN,_TH)-020617?style=flat-square" />
+  <img src="https://img.shields.io/badge/Collaboration_&_Teamwork-020617?style=flat-square" />
+  <img src="https://img.shields.io/badge/Time_Management-020617?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fast_Learner-020617?style=flat-square" />
 
 <br/>
 <div align="center"><img src="./assets/separator-v4.svg" width="100%" /></div>
