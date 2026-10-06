@@ -62,38 +62,49 @@
 
 <br/>
 
-### <code>[ SYS.SKILLS ]</code> EXPANDED TECHNICAL STACK
+<div align="center">
+<h3><code>[ SYS.SKILLS ]</code> EXPANDED TECHNICAL STACK</h3>
+
+<br/>
 
 **`[ PROGRAMMING ]`**<br/>
-<img src="https://img.shields.io/badge/-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="JavaScript" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="45" alt="TypeScript" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="45" alt="Java" />
+
+<br/><br/>
 
 **`[ WEB DEVELOPMENT & DESIGN ]`**<br/>
-<img src="https://img.shields.io/badge/-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="HTML5" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="45" alt="CSS3" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" height="45" alt="Tailwind" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="45" alt="React" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="45" alt="Next.js" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/angular/DD0031" height="45" alt="Angular" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/figma/F24E1E" height="45" alt="Figma" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="45" alt="Photoshop" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="Canva" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="45" alt="Illustrator" />
+
+<br/><br/>
 
 **`[ CORE OS & NETWORK ]`**<br/>
-<img src="https://img.shields.io/badge/-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white" />
-<img src="https://img.shields.io/badge/-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="45" alt="Linux" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" alt="Ubuntu" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45" alt="Kali" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fedora/51A2DA" height="45" alt="Fedora" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/windows/0078D6" height="45" alt="Windows" />
+
+<br/><br/>
 
 **`[ AI-ASSISTED DEV ]`**<br/>
-<img src="https://img.shields.io/badge/-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/-%23F9D6B3.svg?style=for-the-badge&logo=anthropic&logoColor=black" />
-<img src="https://img.shields.io/badge/-%238E75B2.svg?style=for-the-badge&logo=googlebard&logoColor=white" />
-<img src="https://img.shields.io/badge/-%2322B8CD.svg?style=for-the-badge&logo=perplexity&logoColor=white" />
+<img src="https://cdn.simpleicons.org/openai/74aa9c" height="45" alt="ChatGPT" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic/F9D6B3" height="45" alt="Claude" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Gemini" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/perplexity/22B8CD" height="45" alt="Perplexity" />
+
+</div>
 
 <br/>
 <div align="center"><img src="./assets/separator-v4.svg" width="100%" /></div>
